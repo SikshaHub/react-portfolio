@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg3838" viewBox="0 0 436.14 219.2" version="1.1">
+  <defs id="defs3840">
+    <filter id="filter9681" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur9683" stdDeviation="0.50357142"/>
+    </filter>
+    <filter id="filter9673" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur9675" stdDeviation="0.44731841"/>
+    </filter>
+    <filter id="filter21217" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur21219" stdDeviation="0.32350136"/>
+    </filter>
+    <filter id="filter21213" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur21215" stdDeviation="0.16176826"/>
+    </filter>
+    <filter id="filter9806" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur9808" stdDeviation="0.253125"/>
+    </filter>
+  </defs>
+  <g id="layer1" transform="translate(-936.21 -231.34)">
+    <g id="g21230" transform="translate(1196.1 682.41)">
+      <g id="g9743">
+        <g id="g9720" transform="translate(-31.47 -41.012)">
+          <path id="rect9638" d="m-224.82-337.64h428.93v19c-144.8 9.1218-287.9 9.7304-428.93 0z" fill="#0083e3"/>
+          <path id="path9614" d="m-225.36-337.57c41.503-21.245 79.109-43.789 98.214-72.5h232.86c14.725 24.167 54.355 48.333 98.929 72.5-143.33 10.158-286.67 8.6736-430 0z" fill="#ff4b00"/>
+        </g>
+        <g id="g9697" transform="matrix(1.0332 0 0 1 -26.33 -41.012)">
+          <path id="path9632" d="m-226.07-523.41 28.929-33.929h357.86l35.357 33.929v23.929h-422.14z" fill="#c8efff" transform="translate(0 308.27)"/>
+          <path id="rect9640" d="m-225.99-214.98h157.5l28.665-13h46.665l28.665 13h160.5v23.713h-421.99z" fill="#00b2f5"/>
+        </g>
+        <g id="g9724" stroke="#00f" transform="translate(-25.474 -41.012)">
+          <g id="g9687">
+            <rect id="rect9642" height="102.86" filter="url(#filter9681)" width="31.429" y="-331.07" x="-211.21" fill="#5ccbf9"/>
+            <path id="rect9644" filter="url(#filter9673)" d="m-179.79-331.07 16.429 5.7143v91.428l-16.429 5.7143z" fill="#0083e3"/>
+          </g>
+          <g id="g9691" transform="matrix(-1 0 0 1 -32.706 0)">
+            <rect id="rect9693" height="102.86" filter="url(#filter9681)" width="31.429" y="-331.07" x="-211.21" fill="#5ccbf9"/>
+            <path id="path9695" filter="url(#filter9673)" d="m-179.79-331.07 16.429 5.7143v91.428l-16.429 5.7143z" fill="#0083e3"/>
+          </g>
+          <g id="g9707" stroke-width=".9814" transform="matrix(-1 0 0 1.0383 -146.71 15.668)">
+            <rect id="rect9709" height="102.86" filter="url(#filter9681)" width="31.429" y="-331.07" x="-211.21" fill="#5ccbf9"/>
+            <path id="path9711" filter="url(#filter9673)" d="m-179.79-331.07 16.429 5.7143v91.428l-16.429 5.7143z" fill="#0083e3"/>
+          </g>
+          <g id="g9713" stroke-width=".9814" transform="matrix(1 0 0 1.0383 114 15.668)">
+            <rect id="rect9715" height="102.86" filter="url(#filter9681)" width="31.429" y="-331.07" x="-211.21" fill="#5ccbf9"/>
+            <path id="path9717" filter="url(#filter9673)" d="m-179.79-331.07 16.429 5.7143v91.428l-16.429 5.7143z" fill="#0083e3"/>
+          </g>
+        </g>
+      </g>
+      <path id="path9741" filter="url(#filter21217)" d="m-96.981-233.16h110.31l-28.284-19.092h-53.74z" stroke="#808080" fill="#bee7ff"/>
+      <path id="path9764" filter="url(#filter21213)" d="m-68.291-264.39h52.582v12.125h-52.582z" stroke="#808080" fill="#bee7ff"/>
+      <path id="path9766" d="m-96.808-245.49 28.406-19.315v12.125l-28.406 19.315z" stroke="#808080" stroke-width="1px" fill="#0083e3"/>
+      <path id="path9768" d="m12.891-245.49-28.406-19.315v12.125l28.406 19.315z" stroke="#808080" stroke-width="1px" fill="#0083e3"/>
+      <rect id="rect9794" height="54" filter="url(#filter9806)" width="13.5" stroke="#8e5c00" y="-426.04" x="13.43" fill="#a57200"/>
+      <rect id="rect9810" height="54" filter="url(#filter9806)" width="13.5" stroke="#8e5c00" y="-426.04" x="-109.73" fill="#a57200"/>
+      <path id="path9770" d="m-41.827-435.45c-38.15 0-71.513 18.157-89.739 45.261l29.241 14.989c12.087-17.726 33.78-29.712 58.675-30.272 0.60612-0.0139 1.2143 0 1.8241 0 25.656 0 48.117 12.121 60.499 30.272l29.241-14.989c-18.227-27.104-51.589-45.261-89.739-45.261z" stroke="#875c00" fill="#f7ffff"/>
+      <g id="text21157" fill="#000080" transform="matrix(.25793 -.96616 .96616 .25793 26.196 -331.49)">
+        <path id="path21166" d="m37.925-143.25-4.5808-0.5447 2.1507 4.0876-1.7634 0.90736-2.1113-4.2107-2.4091 3.5122-1.7357-1.1905 2.4091-3.5122-4.6987-0.46041 0.21148-1.9718 4.6287 0.5625-2.1986-4.1054 1.7634-0.90737 2.1356 4.1972 2.4091-3.5122 1.7357 1.1905-2.4091 3.5122 4.6745 0.47382-0.21148 1.9718"/>
+        <path id="path21168" d="m43.371-143.57 3.3513 3.4243-6.3217 13.047 13.172-6.0479 3.3513 3.4243-18 8.0358-3.9748-4.0614 8.4219-17.822"/>
+        <path id="path21170" d="m60.032-124.95 2.6972 3.9301-15.241 10.46-2.6972-3.9301 15.241-10.46"/>
+        <path id="path21172" d="m71.805-102.58-3.5443 1.6568c-0.01868-1.112-0.12781-2.1543-0.32737-3.127-0.1996-0.97272-0.48114-1.8479-0.84463-2.6255-0.48236-1.0319-0.98095-1.7282-1.4958-2.0888-0.51484-0.36068-1.0713-0.40121-1.6695-0.12159-0.44865 0.20971-0.72319 0.53849-0.82362 0.98633-0.08948 0.45182-0.01947 1.1571 0.21004 2.1158l0.48971 2.0124c0.49644 2.0366 0.54682 3.6257 0.15115 4.7674-0.3957 1.1416-1.2964 2.041-2.7021 2.6981-1.8469 0.86332-3.4796 0.95686-4.8982 0.28063-1.4076-0.67227-2.6374-2.1337-3.6895-4.3844-0.49633-1.0618-0.89346-2.1745-1.1914-3.3381s-0.49867-2.3727-0.60219-3.6272l3.6452-1.7039c-0.06846 1.3349-0.01606 2.5677 0.1572 3.6985 0.18422 1.1348 0.49304 2.1658 0.92646 3.093 0.4404 0.94213 0.93471 1.5903 1.4829 1.9445 0.54822 0.35417 1.114 0.39495 1.6972 0.12233 0.5234-0.24468 0.84679-0.6054 0.97015-1.0822 0.12684-0.46931 0.06475-1.2648-0.18628-2.3866l-0.41106-1.8442c-0.42404-1.8427-0.42524-3.3364-0.0036-4.481 0.4251-1.1372 1.3031-2.0168 2.6341-2.639 1.6674-0.77944 3.2014-0.84051 4.6021-0.18321 1.4006 0.65731 2.5727 1.9954 3.5165 4.0143 0.4299 0.91971 0.80101 1.8988 1.1133 2.9373 0.31977 1.035 0.58426 2.1368 0.79346 3.3055"/>
+        <path id="path21174" d="m63.156-79.637-1.5841-7.283-3.5406-0.43358-1.0183-4.6819 19.518 2.7616 1.2078 5.553-16.607 10.619-1.0183-4.6819 3.0433-1.8529m2.0197-6.8505 1.0762 4.9481 6.6494-4.031-7.7257-0.91706"/>
+        <path id="path21176" d="m64.299-59.306 0.12939-7.4522-3.3467-1.2345 0.08318-4.7907 18.363 7.1665-0.09866 5.682-18.601 6.5247 0.08318-4.7907 3.3873-1.1052m3.5377-6.2042-0.08791 5.063 7.397-2.3976-7.3091-2.6654"/>
+        <path id="path21178" d="m73.468-42.516-10.902-2.8914-0.438 1.6515c-0.49936 1.8828-0.41352 3.4427 0.25754 4.6795 0.66894 1.2448 1.893 2.1032 3.6721 2.575 1.7711 0.46972 3.2506 0.33268 4.4385-0.41114 1.1878-0.74385 2.0325-2.0612 2.534-3.952l0.438-1.6515m4.7044-3.6837-1.2886 4.8587c-0.71944 2.7125-1.4502 4.6792-2.1924 5.8999-0.73632 1.2308-1.6931 2.1981-2.8704 2.9021-1.028 0.62397-2.1225 0.99975-3.2835 1.1274-1.161 0.12756-2.4077 0.01466-3.74-0.33868-1.3483-0.35762-2.499-0.88056-3.4522-1.5688-0.9452-0.68621-1.7096-1.555-2.2932-2.6064-0.67154-1.2028-1.025-2.5262-1.0605-3.9702-0.02747-1.4419 0.31428-3.5032 1.0252-6.1838l1.2886-4.8587 17.867 4.7387"/>
+        <path id="path21180" d="m62.904-14.795-0.09379-4.6121-3.751 2.6952-1.1424-1.621 3.8784-2.6732-3.8115-1.9004 0.93915-1.8836 3.8115 1.9004-0.19357-4.7172 1.9821-0.06314 0.08277 4.662 3.762-2.745 1.1424 1.621-3.8617 2.6953 3.8115 1.9004-0.93915 1.8836-3.8115-1.9004 0.17694 4.6951-1.9821 0.06314"/>
+      </g>
+      <g id="g21189">
+        <path id="path21183" d="m-179.25-337.38h41.207v32.116h-41.207z" fill="#a90000"/>
+        <rect id="rect21185" height="24.042" width="14.849" y="-333.17" x="-175.27" fill="#cba100"/>
+        <rect id="rect21187" height="24.042" width="14.849" y="-333.17" x="-156.52" fill="#cba100"/>
+      </g>
+      <g id="g21225">
+        <path id="path21196" d="m54.75-337.38h41.207v32.116h-41.207z" fill="#a90000"/>
+        <rect id="rect21198" height="24.042" width="14.849" y="-333.17" x="58.732" fill="#f8d800"/>
+        <rect id="rect21200" height="24.042" width="14.849" y="-333.17" x="77.482" fill="#f8d800"/>
+      </g>
+      <path id="path21204" d="m-57.845-343.75h33.207v55.562h-33.207z" fill="#a90000"/>
+      <rect id="rect21206" height="47.458" width="24.849" y="-339.69" x="-53.666" fill="#fe0"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>School</dc:title>
+        <dc:date>2013-03-27T05:56:26</dc:date>
+        <dc:description>School clipart</dc:description>
+        <dc:source>http://openclipart.org/detail/176546/school-by-eternaltyro-176546</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>eternaltyro</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>School</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
